@@ -2,6 +2,8 @@
 
 Experimental design to characterize modulus of elasticity for three grades of steels manufactured in three methods.
 
+## Research Paper
+
 <img src="docs/B-Project Final Report-01.png" alt="01" width="850"/>
 
 <img src="docs/B-Project Final Report-02.png" alt="01" width="850"/>
